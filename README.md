@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, Kayo👋
 
 <!--
 **kayo289/kayo289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+* 📫 Social links: [twitter](https://twitter.com/0810kayo)
+* 💻 Summary of what I created link: 何かしらのレポじとりへのリンク
