@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 * 💻 Summary of what I created link: 何かしらのレポじとりへのリンク
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kayo289&count_private=true&show_icons=true" style="width:50%;"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kayo289&count_private=true&show_icons=true" width="55%"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayo289&layout=compact" />
