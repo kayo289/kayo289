@@ -24,4 +24,4 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayo289&layout=compact" width="50%"/>
 </a>
 
-[![jaeskim's 42 status](https://badge42.herokuapp.com/api/stats/skurosu?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
+[![jaeskim's 42 status](https://badge42.herokuapp.com/api/stats/kkikuchi?cursus=42cursus)](https://github.com/JaeSeoKim/badge42)
